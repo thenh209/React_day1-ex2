@@ -1,0 +1,22 @@
+#div1{
+  align-items: center;
+  margin: 0%;
+  padding-top:145px;
+  background-color: rgb(236, 226, 212);
+}
+#h1
+{
+  font-family: sans-serif;
+  padding-bottom: 75px;
+}
+#btn1
+{
+  font-family: cursive;
+  background-color: blanchedalmond;
+  height: 50px;
+  margin-bottom: 100px;
+}
+#btn1:hover{
+  background-color: rgb(186, 186, 218);
+}
+
